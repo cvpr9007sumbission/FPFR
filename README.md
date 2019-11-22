@@ -2,7 +2,7 @@
 <br>
 CVPR submission ID 9007
 <br>
-This project includes a demo version of our program demonstrating how our model interpolate or extrapolate a light field based on 2x2 sparsely sampled views. We strongly recommand that the readers follow the instructions below to synthesize a light field by yourself.
+This project includes a demo version of our program demonstrating how our model interpolates or extrapolates a light field based on 2x2 sparsely sampled views. We strongly recommand that the readers follow the instructions below to synthesize a light field by yourself.
 
 ## Check environment
 Our project is implemented in **Python** with the deep learning framework **tensorflow (version 1.13.1)**
